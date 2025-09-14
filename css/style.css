@@ -190,8 +190,6 @@ header .container i:hover {
 
 .btn-nav {
    color: white;
-    font-size: 17px;
-   font-weight: bold;
    padding: 10px;
    background-color: var(--main-color);
    border-radius: 5px;
@@ -335,8 +333,6 @@ header .container i:hover {
 .hero .container .hero-info .call button {
    background-color: var(--main-color);
    color: white;
-   font-size: 19px;
-   font-weight: bold;
    padding: 10px 20px;
    border: none;
    border-radius: 5px;
@@ -484,8 +480,6 @@ header .container i:hover {
    border: none;
    padding: 10px 20px;
    border-radius: 5px;
-   font-size: 19px;
-   font-weight: bold;
    cursor: pointer;
    transition: 0.3s;
    position: relative;
